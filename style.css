@@ -1,0 +1,100 @@
+body{background-color: #d1fafa;
+	border:5px solid #000066;
+	
+ }
+
+header{display: flex;
+	
+	background: #3368ffee;
+	padding: 10px;
+	border-bottom: 5px solid #000066;
+	
+	
+	
+}
+
+
+.bd{	
+	background-color: #33b4ff;
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px;
+	border:5px solid #000066;
+	
+
+}
+
+
+ 
+#contact{
+
+	text-align: right;
+
+
+}
+
+.toppa{
+	width: 20%;
+}	
+.toppu{
+	width: 40%;
+}
+.enlace{
+	display: flex;
+	text-align: center;
+	background: #0f0080;
+	color: #00cccc;
+	padding: 15px;
+	margin: 2px;
+	text-decoration: none;
+}
+
+.enlace:hover{
+
+	background: purple;
+	color: #00ff9e;
+}
+.enlace:active{
+ background: #4d0f57;
+	color: #00ff9e;
+}
+
+
+h1{color: #00cccc;
+	text-shadow: 
+        -1px -1px 0px #000,
+         0px -1px 0px #000,
+         1px -1px 0px #000,
+        -1px  0px 0px #000,
+         1px  0px 0px #000,
+        -1px  1px 0px #000,
+         0px  1px 0px #000,
+         1px  1px 0px #000;}
+
+h2{color: #a80ac2;
+	font-weight:bold; 
+	text-shadow: 
+        -1px -1px 0px #000,
+         0px -1px 0px #000,
+         1px -1px 0px #000,
+        -1px  0px 0px #000,
+         1px  0px 0px #000,
+        -1px  1px 0px #000,
+         0px  1px 0px #000,
+         1px  1px 0px #000;
+}
+h3{ color: #000000; }
+
+
+
+.List{
+	background: #99fffe;
+	padding: 10px;
+	margin: 10px;
+	width: 30%;
+	font-size: 20px;
+	border:5px solid #000066;
+	
+}
+
+.Lists{display: flex;}
